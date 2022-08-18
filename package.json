@@ -1,0 +1,19 @@
+{
+  "name": "@kznjunk/strapi-provider-upload-aws-s",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kznjunk/strapi-provider-upload-aws-s3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kznjunk/strapi-provider-upload-aws-s3/issues"
+  },
+  "homepage": "https://github.com/kznjunk/strapi-provider-upload-aws-s3#readme"
+}
