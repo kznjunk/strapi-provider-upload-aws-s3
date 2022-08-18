@@ -1,6 +1,6 @@
 # strapi-provider-upload-aws-s3
 
-Based on ![https://github.com/strapi/strapi/blob/master/packages/providers/upload-aws-s3/lib/index.js](@strapi/provider-upload-aws-s3)
+Based on [@strapi/provider-upload-aws-s3](https://github.com/strapi/strapi/blob/master/packages/providers/upload-aws-s3/lib/index.js)
 but with the cdn option:
 
 ```js
