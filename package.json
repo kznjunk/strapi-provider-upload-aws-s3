@@ -1,6 +1,6 @@
 {
-  "name": "@kznjunk/strapi-provider-upload-aws-s",
-  "version": "1.0.0",
+  "name": "@kznjunk/strapi-provider-upload-aws-s3",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kznjunk/strapi-provider-upload-aws-s3/issues"
   },
-  "homepage": "https://github.com/kznjunk/strapi-provider-upload-aws-s3#readme"
+  "homepage": "https://github.com/kznjunk/strapi-provider-upload-aws-s3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1197.0"
+  }
 }
